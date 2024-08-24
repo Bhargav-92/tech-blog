@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../component/Client/Card';
+import Card from '../../component/Client/Card';
 
 interface Post {
   id: number;

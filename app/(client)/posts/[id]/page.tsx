@@ -1,11 +1,9 @@
 import React from 'react';
 
-const post = () => {
+export default async function post() {
   return (
     <div className="h-screen">
       <h1>posts</h1>
     </div>
   );
-};
-
-export default post;
+}
